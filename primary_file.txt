@@ -1,4 +1,4 @@
-Welcome to California
+Welcome to California:
 
 This is the first file that I added to the project.
 
