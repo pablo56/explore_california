@@ -1,3 +1,5 @@
+Welcome to California
+
 This is the first file that I added to the project.
 
 This comes before all other added files.
